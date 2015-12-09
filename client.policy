@@ -1,0 +1,3 @@
+grant codeBase "file:///I:/My%20Documents/PiJ/Lecture21/" {
+	permission java.security.AllPermission;
+};
